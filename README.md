@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ForkahEH
-- 👀 I’m interested in DevOps, Software Development
+- 👀 I’m interested in DevOps, Software Development and Cybersecurity 
 - 🌱 I’m currently learning CI-CD
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me : elmaforkah@gmail.com 
